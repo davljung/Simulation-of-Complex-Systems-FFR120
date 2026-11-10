@@ -1,0 +1,22 @@
+
+Heart attack, traffic
+
+
+Coronary artery disease?
+
+Animation of heart
+https://www.youtube.com/watch?v=BEWjOCVEN7M 
+
+
+Particle-Based Flow 
+Plaque Growth  -> particles gets stopped in vortexes (swirl behind blockage)
+
+navier stokes?
+
+
+simulate stenosis using gaussian 
+
+
+program LDL particles to stick wherever fluid velocity near a wall drops below a threshold 
+(the outer walls of the Y-split), 
+plaque will naturally emerge right at the LMCA bifurcation just like it does in real patients.
